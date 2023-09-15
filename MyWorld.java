@@ -10,7 +10,7 @@ public class MyWorld extends World {
     private Block block;
     public MyWorld() 
     {
-        setBackground("img/BG/BG.png");
+        setBackground("1241668-blank-mario-world.jpg");
         Mayflower.showBounds(true);
         cat = new Cat();
         addObject(cat, 400, 0);
